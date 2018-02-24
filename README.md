@@ -28,7 +28,7 @@ Several additional UNIX programs will be installed during the course: [links](ht
 
 ## Программа школы
 
-The topics covered in this course can all be found here: [Spring 2018 Schedule](https://data-skills.github.io/2018-workshop/program).
+The topics covered in this course can all be found here: [Spring 2018 Schedule](https://data-skills.github.io/2018-workshop/schedule).
 Be sure to check the schedule for updates.
 
 ## Расписание
