@@ -2,9 +2,9 @@
 
 Добро пожаловать! На этом сайте помещена информация для школы по бионформатическому анализу данных 
 которая состоится на базе Лаборатории молекулярной систематики Зоологического инстиута РАН в 
-Санкт Петербурге 12, 13, 15 и 16 марта 2018 года [map](https://sites.google.com/site/phylogeneticworkshop/home/karta). 
+Санкт Петербурге [map](https://goo.gl/maps/mAWL98JkXQR2) 12, 13, 15 и 16 марта 2018 года. 
 
-**Инструктор**: [Денис Лавров](https://sites.google.com/site/dennislavrov/)
+**Инструктор**: [Денис Лавров](http://www.eeob.iastate.edu/people/dennis-lavrov)
 
 **Web View:** [https://data-skills.github.io/2018-workshop/](https://data-skills.github.io/2018-workshop/)
 
@@ -21,10 +21,7 @@
 
 ## Компьютерные программы
 
-We will be using UNIX and Git throughout the course. If you are a Linux or MacOS user, you already have these tools installed.
-If you are a Windows user, see the [installation guide](https://data-skills.github.io/2018-workshop/install) for instructions on installing.  
-In addition, we will be using R most of the course. Please install (or update) [R and RStudio](). 
-Several additional UNIX programs will be installed during the course: [links](https://data-skills.github.io/2018-workshop/install).
+We will be using UNIX, Git, and R throughout the course. See the [installation guide](https://data-skills.github.io/2018-workshop/install) for instructions on installing.  
 
 ## Программа школы
 
@@ -38,7 +35,7 @@ Be sure to check the schedule for updates.
 * 14:00-16:00 Unix data tools and Basic Bash Scripting
 
 ### 13 МАРТА
-* 10:00-12:00 Git for Scientitsts, GitHub
+* 10:00-12:00 Git for Scientists, GitHub
 * 13:00-15:00 Intro to R
 
 ### 14 МАРТА - Перерыв!
