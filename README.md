@@ -6,11 +6,11 @@
 
 **Инструктор**: [Денис Лавров](https://sites.google.com/site/dennislavrov/)
 
-**Web View:** [https://isu-molphyl.github.io/EEOB563-Spring2018](https://isu-molphyl.github.io/EEOB563-Spring2018/)
+**Web View:** [https://data-skills.github.io/2018-workshop/](https://data-skills.github.io/2018-workshop/)
 
 ## Основная и дополнительная литература
 ### Основная
-* [*Bioinformatics Data Skills*](http://shop.oreilly.com/product/0636920030157.do) by [Vince Buffalo](https://jarhodesuaf.github.io/)
+* [*Bioinformatics Data Skills*](http://shop.oreilly.com/product/0636920030157.do) by [Vince Buffalo](https://github.com/vsbuffalo)
 > "This book is the answer to a question I asked myself two years ago: "What book would I want to read first when getting started 
 > in bioinformatics?"
 
@@ -22,13 +22,13 @@
 ## Компьютерные программы
 
 We will be using UNIX and Git throughout the course. If you are a Linux or MacOS user, you already have these tools installed.
-If you are a Windows user, see the [installation guide](https://isu-molphyl.github.io/EEOB563-Spring2018/install) for instructions on installing.  
+If you are a Windows user, see the [installation guide](https://data-skills.github.io/2018-workshop/install) for instructions on installing.  
 In addition, we will be using R most of the course. Please install (or update) [R and RStudio](). 
-Several additional UNIX programs will be installed during the course: [links](https://isu-molphyl.github.io/EEOB563-Spring2018/links).
+Several additional UNIX programs will be installed during the course: [links](https://data-skills.github.io/2018-workshop/install).
 
 ## Программа школы
 
-The topics covered in this course can all be found here: [Spring 2018 Schedule](https://sites.google.com/site/eeob563/schedule2018).
+The topics covered in this course can all be found here: [Spring 2018 Schedule](https://data-skills.github.io/2018-workshop/program).
 Be sure to check the schedule for updates.
 
 ## Расписание
