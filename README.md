@@ -14,7 +14,7 @@
 > "This book is the answer to a question I asked myself two years ago: "What book would I want to read first when getting started 
 > in bioinformatics?"
 
-Дополнительная
+### Дополнительная
 * [Pro Git](https://git-scm.com/book/en/v2)
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [ggplot2: Elegant Graphics for Data Analysis](https://github.com/hadley/ggplot2-book)
