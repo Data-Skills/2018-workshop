@@ -39,7 +39,7 @@ We will be using UNIX, Git, and R throughout the course. See the
 ### 14 МАРТА - Перерыв!
 
 ### 15 МАРТА
-* 10:00-12:00 R for Data Management
+* 10:00-12:00 Intro to R; R for Data Management
 * 13:00-15:00 R for Data Visualization
 
 ### 16 МАРТА 
