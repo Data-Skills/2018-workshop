@@ -21,22 +21,20 @@
 
 ## Компьютерные программы
 
-We will be using UNIX, Git, and R throughout the course. See the [installation guide](https://data-skills.github.io/2018-workshop/install) for instructions on installing.  
+We will be using UNIX, Git, and R throughout the course. See the 
+[installation guide](https://data-skills.github.io/2018-workshop/install) for instructions on installing.  
 
 ## Программа школы
 
-The topics covered in this course can all be found here: [Spring 2018 Schedule](https://data-skills.github.io/2018-workshop/schedule).
-Be sure to check the schedule for updates.
-
-## Расписание
-
 ### 12 МАРТА
-* 11:00-13:00 Unix and Git
-* 14:00-16:00 Unix data tools and Basic Bash Scripting
+* 11:00-13:00 Unix, Git, and GitHub setup; Unix intro
+  - [tutorial](https://data-skills.github.io/unix-and-bash/)
+* 14:00-16:00 Unix data tools
+  - [tutorial](https://data-skills.github.io/unix-and-bash/)
 
 ### 13 МАРТА
-* 10:00-12:00 Git for Scientists, GitHub
-* 13:00-15:00 Intro to R
+* 10:00-12:00 Bash scripting and writing pipelines
+* 13:00-15:00 Git for Scientists
 
 ### 14 МАРТА - Перерыв!
 
