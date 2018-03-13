@@ -1,4 +1,4 @@
-# Bioinformatics Data Skills
+#Bioinformatics Data Skills
 
 Добро пожаловать! На этом сайте помещена информация для школы по бионформатическому анализу данных 
 которая состоится на базе Лаборатории молекулярной систематики Зоологического инстиута РАН в 
@@ -33,7 +33,9 @@ We will be using UNIX, Git, and R throughout the course. See the
   - [tutorial](https://data-skills.github.io/unix-and-bash/)
 
 ### 13 МАРТА
-* 10:00-12:00 Bash scripting and writing pipelines
+* 10:00-12:00 Unix data tools (cont.); Bash scripting
+  - [tutorial](https://data-skills.github.io/unix-and-bash/)
+
 * 13:00-15:00 Git for Scientists
 
 ### 14 МАРТА - Перерыв!
