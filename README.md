@@ -42,6 +42,7 @@ We will be using UNIX, Git, and R throughout the course. See the
 
 ### 15 МАРТА
 * 10:00-12:00 Intro to R; R for Data Management
+  - [tutorial](https://data-skills.github.io/r4ds/index.html)
 * 13:00-15:00 R for Data Visualization
 
 ### 16 МАРТА 
